@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+beautifulsoup4
+openai
+firebase-admin
+requests
+jsbeautifier
